@@ -74,7 +74,6 @@ output "Jexactyl Installer fork of Pterodactyl Installer"
 output "https://github.com/NineWhiteDream/jexactyl-installer"
 output "https://github.com/vilhelmprytz/pterodactyl-installer"
 output
-output "Sponsoring/Donations: https://github.com/NineWhiteDream/jexactyl-installer?sponsor=1"
 output "This script is not associated with the official Pterodactyl Project and jexactyl"
 
 output
